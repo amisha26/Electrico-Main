@@ -2,7 +2,7 @@ import "./styles.css";
 import Head from "./comp/Head";
 import Header from "./comp/Header";
 import Main from "./comp/Main";
-
+import About from "./comp/About";
 
 export default function App() {
   return (
@@ -11,6 +11,7 @@ export default function App() {
       <Head />
       <Header />
       <Main />
+      <About />
       <br />
       <br />
       {/****** Footer Section Start **********/}
