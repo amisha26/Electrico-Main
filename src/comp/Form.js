@@ -100,9 +100,6 @@ export default function Form() {
 
   // Loader End
 
-
-
-  
   return (
     <form
       className={`form-main ${classes.root}`}
@@ -165,7 +162,8 @@ export default function Form() {
       />
       <br />
       {/*********** Problem End ***************/}
-     
+
+      {/*********** Button Loader Start ***************/}
       {show ? (
         <Loader />
       ) : (
@@ -181,7 +179,7 @@ export default function Form() {
           Submit
         </Button>
       )}
-     
+      {/*********** Button Loader End ***************/}
     </form>
   );
 }
