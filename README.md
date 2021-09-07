@@ -26,4 +26,4 @@ $ npm start
 
 # For back-end repo 
 
-*[Electrico-Backend](https://github.com/gamitej/Electrico_Backend). 
+* [Electrico-Backend](https://github.com/gamitej/Electrico_Backend). 
