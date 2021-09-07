@@ -4,6 +4,7 @@ import Header from "./comp/Header";
 import Main from "./comp/Main";
 import About from "./comp/About";
 import Service from "./comp/Service";
+import Contact from "./comp/Contact";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <Main />
       <About />
       <Service />
+      <Contact />
       <br />
       <br />
       {/****** Footer Section Start **********/}
