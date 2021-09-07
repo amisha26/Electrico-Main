@@ -1,6 +1,4 @@
-## Project Demo
-
-[Electrico](https://electrico-theelectrician.netlify.app/)
+## The [Electrico](https://electrico-theelectrician.netlify.app/) Is live Now!
 
 
 ## Description 
