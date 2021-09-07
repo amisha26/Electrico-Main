@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+}
+
+
+
+.upper {
+  background-color: #005c99;
+  color: whitesmoke;
+  text-align: center;
+  height: 3rem;
+}
+
+
+/******************** footer css start *********************/
+
+.bottom-footer {
+  color: whitesmoke;
+  background-color: #005c99;
+  text-align: center;
+  margin-top: -3rem;
+  height: 3rem;
+  border: 0.1rem solid white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#footer-p {
+  margin-top: 0.7rem;
+}
+/******************** footer css end *********************/
+
+/************** media query for footer *************/
+
+@media screen and (max-width: 420px) {
+  .bottom-footer {
+    font-size: 0.8rem;
+  }
+}

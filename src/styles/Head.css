@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+.top {
+  display: flex;
+}
+
+.img1 {
+  padding: 2rem 4rem;
+}
+
+.heading-cls {
+  text-decoration: none;
+  color: #262626;
+  font-size: 1.4rem;
+}
+
+#dot {
+  font-size: 3rem;
+  color: #005c99;
+}
+
+.bar-list {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: 3rem;
+  color: #ffffff;
+  background-color: #1a2550;
+  width: 100%;
+  height: 8rem;
+}
+
+.phone-icon {
+  margin-left: 2rem;
+}
+
+/****** ( vl ) is for verical blue line  *****/
+
+.vl {
+  border-left: 2.5px solid blue;
+  height: 4rem;
+  margin-left: 2rem;
+}
+
+.list-item {
+  font-size: 1.3rem;
+  font-family: Lato;
+  letter-spacing: normal;
+  margin-left: 2rem;
+}
+.head-span {
+  margin-left: 0.3rem;
+  color: #ffffff;
+}
+
+/************* phone number css - start ***************/
+
+/************ Shake Animation Start *********/
+
+.bar-icon {
+  margin-right: 0.5rem;
+  margin-top: 0.7rem;
+  animation: shake 1s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+  transform: translate3d(0, 0, 0);
+  animation-iteration-count: 5;
+  font-size: 2rem;
+}
+
+@keyframes shake {
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+/************ Shake Animation  End *********/
+
+/************* phone number css - end ***************/
+
+@media screen and (max-width: 860px) {
+  .bar-list {
+    height: 5rem;
+  }
+
+  .bar-icon{
+    font-size: 1.6rem;
+  }
+
+  .vl {
+    height: 2rem;
+  }
+
+  .list-item {
+    font-size: 1rem;
+    width: 100%;
+  }
+
+  .head-span {
+    font-size: 1rem;
+  }
+
+  .bar-list {
+    margin-left: -2rem;
+  }
+
+  /******** Elecro Title Part  ********/
+
+  .img1 {
+    padding: 0.5rem 1rem;
+  }
+
+  .heading-cls {
+    font-size: 1rem;
+    margin-right: 2rem;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .heading-cls {
+    font-size: 1rem;
+  
+  }
+  .bar-icon{
+    font-size: 1.5rem;
+    margin-right: 0rem;
+    margin-bottom: .5rem;
+  }
+}
+
+
+@media screen and (max-width:440px){
+  .heading-cls{
+    font-size: .5rem;
+    padding: .2rem 2rem;
+    margin-top: -.5rem;
+
+  }
+  .bar-list{
+    height: 4rem;
+  }
+  .list-item{
+    font-size: .8rem;
+    margin-left: 1rem;
+  }
+  .head-span{
+    font-size: .8rem;
+  }
+  .bar-icon{
+    font-size: .8rem;
+    margin-right: -2rem;
+  }
+
+}
+
+
