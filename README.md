@@ -5,7 +5,8 @@
 To run this project, install it locally using npm.
 
 ```
-$ cd /file_name
+$ git clone ...
+$ cd /repo_name
 $ npm install
 $ npm start
 ```
