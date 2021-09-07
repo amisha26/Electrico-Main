@@ -3,6 +3,7 @@ import Head from "./comp/Head";
 import Header from "./comp/Header";
 import Main from "./comp/Main";
 import About from "./comp/About";
+import Service from "./comp/Service";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <Header />
       <Main />
       <About />
+      <Service />
       <br />
       <br />
       {/****** Footer Section Start **********/}
