@@ -4,10 +4,11 @@
 ## Description 
 
 * In electrico user can register complain related to electronic stuff or electricity related problems.  
-* After registering complain user will recieve a conformation mail.
-* The admin can view all the complain registered on to the portal.
-* The admin can also remove the complain when the job is done.
-* There is a separate Admin Portal to view complains. 
+* User can only able to register only one complain from a given mobile number.
+* After registering complain user will recieve a confirmation message to there given mobile number [ The msg api is off right now ].
+* The admin can view all the complains registered on to the portal.
+* The admin can also remove the complain after the work is done.
+* There is a separate Admin Portal to view complains for the admin-only. 
 
 
 ## Setup 
