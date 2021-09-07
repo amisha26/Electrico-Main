@@ -1,9 +1,9 @@
-# Project Demo
+## Project Demo
 
 [Electrico](https://electrico-theelectrician.netlify.app/)
 
 
-# Description 
+## Description 
 
 * In electrico user can register complain related to electronic stuff or electricity related problems.  
 * After registering complain user will recieve a conformation mail.
@@ -12,7 +12,7 @@
 * There is a separate Admin Portal to view complains. 
 
 
-# Setup 
+## Setup 
 To run this project, install it locally using npm.
 
 ```
@@ -22,7 +22,7 @@ $ npm install
 $ npm start
 ```
 
-# Technologies Used
+## Technologies Used
 
 * [ReactJS](https://reactjs.org/)
 * [Material-UI](https://material-ui.com/)
@@ -30,7 +30,7 @@ $ npm start
 * [MongoDB](https://www.mongodb.com/cloud/atlas/register)
 
 
-# Project Contributors
+## Project Contributors
 
 * Front-End is done by me - [amisha26](https://github.com/amisha26).
 * Back-End is done by - [gamitej](https://github.com/gamitej).
