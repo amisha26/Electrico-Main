@@ -23,3 +23,7 @@ $ npm start
 
 * Front-End is done by me - [amisha26](https://github.com/amisha26).
 * Back-End is done by - [gamitej](https://github.com/gamitej).
+
+# For back-end repo 
+
+*[Electrico-Backend](https://github.com/gamitej/Electrico_Backend). 
