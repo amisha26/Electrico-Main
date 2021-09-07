@@ -94,12 +94,7 @@ export default function Form() {
     });
   };
 
-  // Loader  Start
-
-  const [show, setShow] = useState(false);
-
-  // Loader End
-
+  
   return (
     <form
       className={`form-main ${classes.root}`}
@@ -162,9 +157,7 @@ export default function Form() {
       />
       <br />
       {/*********** Problem End ***************/}
-      {show ? (
-        <Loader />
-      ) : (
+     
         <Button
           type="submit"
           variant="outlined"
@@ -176,7 +169,7 @@ export default function Form() {
         >
           Submit
         </Button>
-      )}
+     
     </form>
   );
 }
