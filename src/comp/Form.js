@@ -48,7 +48,7 @@ export default function Form() {
   };
 
   //******************** API Call *************************
-  const api = "https://elctro-api.herokuapp.com/api/v1/shop/";
+  const api = "";
 
   // user login request
   const formSubmit = ({ x }) => {
