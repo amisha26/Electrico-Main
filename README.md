@@ -40,5 +40,5 @@ $ npm start
 
 ## Electrico-Admin Portal Repo
 
+* Electrico-Admin website [Demo!](https://electrico-admin.netlify.app/)
 * [View-Repo](https://github.com/amisha26/Electrico-Admin)
-* Its for admin only.
