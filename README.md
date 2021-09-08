@@ -33,12 +33,10 @@ $ npm start
 
 * Front-End is done by me - [amisha26](https://github.com/amisha26).
 * Back-End is done by - [gamitej](https://github.com/gamitej).
+* Back-End repo [click here!](https://github.com/gamitej/Electrico_Backend). 
 
-## Back-End repo 
 
-* [Electrico-Backend](https://github.com/gamitej/Electrico_Backend). 
+## Electrico-Admin 
 
-## Electrico-Admin Portal Repo
-
-* Electrico-Admin website [Demo!](https://electrico-admin.netlify.app/)
+* Electrico-Admin [Demo!](https://electrico-admin.netlify.app/)
 * [View-Repo](https://github.com/amisha26/Electrico-Admin)
