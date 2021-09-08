@@ -37,3 +37,8 @@ $ npm start
 ## Back-End repo 
 
 * [Electrico-Backend](https://github.com/gamitej/Electrico_Backend). 
+
+## Electrico-Admin Portal Repo
+
+* [View-Repo](https://github.com/amisha26/Electrico-Admin)
+* Its for admin only.
