@@ -21,9 +21,10 @@ const About = () => {
             />
           </div>
           <div className="about-text">
-            <h1>
-              <span>Name xyz</span>
-            </h1>
+            {/* <h1>
+              <span>Best Option in Electrical Contractors 24/7</span>
+            </h1> */}
+            <br/>
             <p>
               All of our services are backed by our 100% satisfaction guarantee.
               Our electricians can install anything from new security lighting
@@ -31,8 +32,9 @@ const About = () => {
               appliances working during a power outage.
               <br />
               <br />
-              Vivamus suscipit tortor eget felis porttitor volutpat. Neque porro
-              quisquam est, qui dolorem ipsum quia dolor , sed quia non numquam.
+              Our experienced electricians are highly trained in all aspects of
+              electrical service, from office lighting and security systems to
+              emergency repair.
             </p>
           </div>
         </div>
