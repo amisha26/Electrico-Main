@@ -1,4 +1,4 @@
-## The [Electrico](https://the-electrico.netlify.app/) Is Live Now!
+## [Demo!](https://the-electrico.netlify.app/) 
 
 
 ## Description 

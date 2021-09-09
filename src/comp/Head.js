@@ -20,6 +20,7 @@ const Head = () => {
           <strong>
             +(91) <span className="head-span">303.428.2011</span>
           </strong>
+       
         </div>
       </div>
     </header>

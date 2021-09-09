@@ -20,7 +20,7 @@ function Contact() {
               <h2 id="cnt-text">Address</h2>
             </li>
             <li id="cnt-in">
-              <h2>18, Richmond,TX-8080</h2>
+              <h2>Shankar Electric, Noorsarai (Bihar)</h2>
             </li>
           </ul>
         </div>
