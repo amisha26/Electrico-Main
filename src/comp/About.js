@@ -25,8 +25,10 @@ const About = () => {
               <span>Name xyz</span>
             </h1>
             <p>
-              Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin
-              molestie malesuada Pellentesque ipsum id orci porta dapibus.
+              All of our services are backed by our 100% satisfaction guarantee.
+              Our electricians can install anything from new security lighting
+              for your outdoors to a whole home generator that will keep your
+              appliances working during a power outage.
               <br />
               <br />
               Vivamus suscipit tortor eget felis porttitor volutpat. Neque porro

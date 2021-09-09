@@ -18,7 +18,7 @@ const Head = () => {
         <div className="list-item">
           Call us at:
           <strong>
-            +(91) <span className="head-span">7000060584</span>
+            +(91) <span className="head-span">XXXX060584</span>
           </strong>
         </div>
       </div>
