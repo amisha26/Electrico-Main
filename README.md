@@ -40,3 +40,5 @@ $ npm start
 
 * Electrico-Admin [Demo!](https://electrico-admin.netlify.app/)
 * [View-Repo](https://github.com/amisha26/Electrico-Admin)
+* Front-End is hosted in [Netlify](https://www.netlify.com/)
+* Back-End is hosted in [Heroku](https://www.heroku.com/)
