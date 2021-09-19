@@ -21,7 +21,8 @@ export default function App() {
       {/****** Footer Section Start **********/}
       <div className="bottom-footer">
         <div id="footer-p">
-          <p> ©2021 Electrico, Designed & Developed By Amisha Tiwari</p>
+        
+          <p> <a href="https://github.com/amisha26" style={{textDecoration:'none',color:'whitesmoke'}}>©2021 Electrico, Designed & Developed By Amisha Tiwari</a></p>
         </div>
       </div>
       {/****** Footer Section End **********/}
